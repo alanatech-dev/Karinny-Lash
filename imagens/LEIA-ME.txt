@@ -1,0 +1,86 @@
+====================================================
+  PASTA DE IMAGENS — SITE KARINNY LASH
+====================================================
+
+REGRA DE OURO PARA O NOME DO ARQUIVO:
+  - tudo em letra MINUSCULA
+  - SEM acento (egipcio, e nao egipcio com acento)
+  - SEM espaco (use o traco - no lugar)
+  - sempre terminando em .jpeg ou .jpg
+
+  Certo:  volume-brasileiro.jpeg
+  Errado: VOLUME BRASILEIRO.jpeg / Volume Brasileiro.JPEG
+
+  Isso evita foto quebrada depois que o site for publicado
+  na internet.
+
+
+----------------------------------------------------
+FOTOS QUE JA ESTAO NO SITE (portfolio)
+----------------------------------------------------
+  efeito-rimel.jpeg
+  volume-brasileiro.jpeg
+  volume-brasileiro-marrom.jpeg
+  volume-glamour.jpeg
+  volume-egipcio-marrom.jpeg
+  fox-eyes.jpeg
+  mega-brasileiro.jpeg
+  mega-egipcio.jpeg
+  mega-egipcio-2.jpeg
+  design-personalizado.jpeg
+  design-com-henna-1.jpeg
+  design-com-henna-2.jpeg
+  brow-lamination.jpeg
+
+Se voce TROCAR uma dessas fotos por outra melhor, e so salvar
+a nova por cima, com o mesmo nome. O site pega sozinho.
+
+
+----------------------------------------------------
+QUERO ACRESCENTAR MAIS UMA FOTO NO PORTFOLIO
+----------------------------------------------------
+1) Salve a foto aqui nesta pasta seguindo a regra de ouro.
+   Ex.: fox-eyes-2.jpeg
+
+2) Abra o arquivo  js/script.js  no Bloco de Notas e procure
+   por  const GALERIA = [
+   Copie uma linha, cole embaixo e troque os dados:
+
+       { arquivo: 'fox-eyes-2.jpeg',  servico: 'Fox Eyes' },
+
+   ATENCAO: o que vem depois de "servico:" tem que estar
+   escrito EXATAMENTE igual ao nome do servico na lista
+   SERVICOS (que fica mais acima no mesmo arquivo).
+   O preco e a descricao entram sozinhos, voce nao precisa
+   escrever de novo.
+
+3) Salve e atualize a pagina no navegador (tecla F5).
+
+Para TIRAR uma foto do site: apague a linha dela em GALERIA.
+A foto continua guardada na pasta, so nao aparece mais.
+
+
+----------------------------------------------------
+OUTRAS FOTOS DO SITE
+----------------------------------------------------
+1) SUA FOTO (secao "Prazer, eu sou a Karinny")
+   Nome do arquivo:  karinny.jpg
+   Formato ideal:    foto em pe (vertical), tipo 900 x 1200
+   -- JA ESTA NO SITE. Para trocar, salve outra foto em pe
+      por cima, com o mesmo nome (karinny.jpg).
+
+2) FOTO DE CAPA (a imagem que aparece quando voce manda o
+   link do site no WhatsApp ou poe na bio do Instagram)
+   Nome do arquivo:  capa.jpg
+   Formato ideal:    deitada (horizontal), 1200 x 630
+
+
+----------------------------------------------------
+IMPORTANTE
+----------------------------------------------------
+- Se sua foto for HEIC (do iPhone), abra no computador e
+  salve como JPG antes.
+- Deixe as fotos abaixo de 500 KB cada, para o site abrir
+  rapido no celular das clientes. Da para diminuir de graca
+  no site squoosh.app
+- Fotos em pe (vertical) ficam melhores no portfolio.

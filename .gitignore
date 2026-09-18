@@ -1,0 +1,10 @@
+# Cópias repetidas de fotos que já estão na pasta imagens/.
+# Continuam guardadas no computador, só não vão para o site publicado.
+EFEITO RIMEL.jpeg
+VOLUME GLAMOUR.jpeg
+Volume BRASILEIRO MARROM.jpeg
+
+# Arquivos temporários de teste e do sistema
+.claude/
+Thumbs.db
+desktop.ini
