@@ -21,7 +21,7 @@ const SERVICOS = [
     categoria: 'natural',
     preco: 160,
     descricao: 'Técnica perfeita, um cílios delicado e natural que vai combinar com você!',
-    manutencao: [ { dias: 15, valor: 105 }, { dias: 20, valor: 125 } ]
+    manutencao: [ { dias: 15, valor: 100 }, { dias: 20, valor: 125 } ]
   },
   {
     nome: 'Volume Brasileiro',

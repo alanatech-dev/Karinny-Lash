@@ -133,8 +133,8 @@ da Netlify, vá em **Deploys** e arraste a pasta de novo. O endereço continua o
   Para mudar qualquer um desses valores, procure no `index.html` por `R$ 30,00`,
   `24 horas` ou `15 minutos` e troque em **todos** os lugares onde aparecer
   (topo do site, política, formulário, dúvidas e formas de pagamento).
-- **Localidade** Campo Grande • MS, com aviso de que o endereço completo é enviado
-  pelo WhatsApp após a confirmação do agendamento (sem mapa e sem rua no site)
+- **Endereço completo** na seção "Onde me encontrar" e no rodapé: Rua São Remo, 602
+  — Vilas Boas, Campo Grande/MS, com botão de traçar rota
 - Formas de pagamento: dinheiro, PIX e cartão (com aviso do acréscimo)
 - Funciona bem em **celular, tablet e computador**
 - Preparado para o **Google** encontrar seu estúdio (nome, cidade, telefone e preços)
@@ -152,7 +152,7 @@ inventado: além de ser errado com as clientes, hoje as pessoas percebem na hora
 
 - **WhatsApp:** (67) 98171-4627 → link `https://wa.me/5567981714627`
 - **Instagram:** @karinnylash
-- **Localidade:** Campo Grande/MS (o endereço completo não aparece no site)
+- **Endereço:** Rua São Remo, 602 — Vilas Boas, Campo Grande/MS
 - **Slogan:** *Naturalidade que encanta, olhar que marca.*
   (dentro do `index.html` tem outras duas opções de slogan, é só trocar)
 
