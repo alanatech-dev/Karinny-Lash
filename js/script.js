@@ -72,7 +72,6 @@ const SERVICOS = [
     nome: 'Mega Egípcio',
     categoria: 'intermediario',
     preco: 215,
-    comparar: true,   /* mostra as 2 primeiras fotos com a barrinha de arrastar */
     descricao: 'Elegante e delicado, pode ser feito tanto no tamanho grande quanto no pequeno — você escolhe o efeito que mais combina com você!',
     manutencao: { nota: 'Técnica sem manutenção, com durabilidade de 30 a 40 dias.' }
   },
@@ -127,8 +126,7 @@ const GALERIA = [
   { arquivo: 'volume-egipcio-marrom.jpeg',    servico: 'Volume Egípcio Marrom' },
   { arquivo: 'fox-eyes.jpeg',                 servico: 'Fox Eyes' },
   { arquivo: 'mega-brasileiro.jpeg',          servico: 'Mega Brasileiro' },
-  { arquivo: 'mega-egipcio.jpeg',             servico: 'Mega Egípcio', legenda: 'Tamanho grande' },
-  { arquivo: 'mega-egipcio-2.jpeg',           servico: 'Mega Egípcio', legenda: 'Tamanho pequeno' },
+  { arquivo: 'mega-egipcio-3.jpeg',           servico: 'Mega Egípcio' },
   { arquivo: 'design-personalizado.jpeg',     servico: 'Design Personalizado' },
   { arquivo: 'design-com-henna-1.jpeg',       servico: 'Design com Henna' },
   { arquivo: 'design-com-henna-2.jpeg',       servico: 'Design com Henna' },
